@@ -1,2 +1,2 @@
 # bcmLibs
-Broadcom device specific libraries
+This repository contains Broadcom device specific libraries per whitebox platform
